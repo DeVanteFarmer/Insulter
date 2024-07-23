@@ -1,0 +1,14 @@
+C:\Users\user\workspace\csharp\Insulter\bin\Debug\net8.0\Insulter.exe
+C:\Users\user\workspace\csharp\Insulter\bin\Debug\net8.0\Insulter.deps.json
+C:\Users\user\workspace\csharp\Insulter\bin\Debug\net8.0\Insulter.runtimeconfig.json
+C:\Users\user\workspace\csharp\Insulter\bin\Debug\net8.0\Insulter.dll
+C:\Users\user\workspace\csharp\Insulter\bin\Debug\net8.0\Insulter.pdb
+C:\Users\user\workspace\csharp\Insulter\obj\Debug\net8.0\Insulter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\workspace\csharp\Insulter\obj\Debug\net8.0\Insulter.AssemblyInfoInputs.cache
+C:\Users\user\workspace\csharp\Insulter\obj\Debug\net8.0\Insulter.AssemblyInfo.cs
+C:\Users\user\workspace\csharp\Insulter\obj\Debug\net8.0\Insulter.csproj.CoreCompileInputs.cache
+C:\Users\user\workspace\csharp\Insulter\obj\Debug\net8.0\Insulter.dll
+C:\Users\user\workspace\csharp\Insulter\obj\Debug\net8.0\refint\Insulter.dll
+C:\Users\user\workspace\csharp\Insulter\obj\Debug\net8.0\Insulter.pdb
+C:\Users\user\workspace\csharp\Insulter\obj\Debug\net8.0\Insulter.genruntimeconfig.cache
+C:\Users\user\workspace\csharp\Insulter\obj\Debug\net8.0\ref\Insulter.dll
